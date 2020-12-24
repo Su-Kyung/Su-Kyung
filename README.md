@@ -20,18 +20,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 549 Contributions in the Year 2020
- > 
-> 📦 526.0 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 7 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
