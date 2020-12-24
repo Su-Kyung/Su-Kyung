@@ -18,4 +18,77 @@
 -------
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 549 Contributions in the Year 2020
+ > 
+> 📦 526.0 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 7 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.74% 
+🌆 Daytime    61 commits     █████░░░░░░░░░░░░░░░░░░░░   20.89% 
+🌃 Evening    111 commits    █████████░░░░░░░░░░░░░░░░   38.01% 
+🌙 Night      112 commits    █████████░░░░░░░░░░░░░░░░   38.36%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
+Tuesday      61 commits     █████░░░░░░░░░░░░░░░░░░░░   20.89% 
+Wednesday    52 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
+Thursday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
+Friday       51 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.47% 
+Saturday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.51% 
+Sunday       37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.67%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C#** 
+
+```text
+C#                       3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Kotlin                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Su-Kyung/Su-Kyung/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
