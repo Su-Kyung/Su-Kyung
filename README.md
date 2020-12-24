@@ -57,9 +57,6 @@ No Activity Tracked This Week
 🐱‍💻 Projects: 
 No Activity Tracked This Week
 
-💻 Operating System: 
-No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in C#** 
@@ -73,10 +70,6 @@ Kotlin                   2 repos             ████░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Su-Kyung/Su-Kyung/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
