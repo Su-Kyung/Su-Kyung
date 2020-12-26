@@ -33,3 +33,4 @@ jobs:
           SHOW_OS: false 
           SHOW_LOC_CHART: false 
           SHOW_PROJECTS: false 
+          SHOW_EDITORS: false 
