@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **5th generation of SSAFY**
 
-- 🌱 I’m currently learning **Kotlin for Android**
+- 🌱 I’m currently learning **Kotlin for Android, Java and Algorithm**
 
 - 📫 How to reach me **slloph720@naver.com**
 
