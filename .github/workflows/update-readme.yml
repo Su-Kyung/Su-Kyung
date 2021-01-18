@@ -38,3 +38,4 @@ jobs:
           SHOW_COMMIT: false 
           SHOW_DAYS_OF_WEEK: false 
           SHOW_LINES_OF_CODE: true 
+          SHOW_PROFILE_VIEWS: false
