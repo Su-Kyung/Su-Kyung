@@ -28,3 +28,9 @@
  > 
 
 <!--END_SECTION:waka-->
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-9cf)
+
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SuKyung&layout=compact&langs_count=6&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=su-kyung&show_icons=true&theme=vision-friendly-dark&hide_title=true&include_all_commits=true&count_private=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su-kyung&layout=compact&langs_count=6&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
