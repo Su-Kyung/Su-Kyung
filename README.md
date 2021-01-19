@@ -16,9 +16,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 53 Contributions in the Year 2021
+> 🏆 60 Contributions in the Year 2021
  > 
-> 📦 528.1 kB Used in Github's Storage 
+> 📦 528.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -26,6 +26,17 @@
  > 
 > 🔑 10 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
+🌆 Daytime    61 commits     █████░░░░░░░░░░░░░░░░░░░░   20.61% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   37.84% 
+🌙 Night      115 commits    █████████░░░░░░░░░░░░░░░░   38.85%
+
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
