@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 265 Contributions in the Year 2021
+> 🏆 267 Contributions in the Year 2021
  > 
 > 📦 573.9 kB Used in Github's Storage 
  > 
@@ -21,6 +21,22 @@
  > 
 > 🔑 10 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+🌆 Daytime    61 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.53% 
+🌃 Evening    137 commits    █████████░░░░░░░░░░░░░░░░   39.37% 
+🌙 Night      137 commits    █████████░░░░░░░░░░░░░░░░   39.37%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+```
+
 
 <!--END_SECTION:waka-->
 
