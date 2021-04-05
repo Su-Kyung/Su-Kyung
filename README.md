@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Song Sukyung</h1>
 <h3 align="center">A passionate software developer from Korea</h3>
 
-- 🔭 I’m currently working on **5th generation of SSAFY**
+- 🔭 I’m currently working on **SSAFY 5th**
 
 - 🌱 I’m currently learning **Kotlin for Android, Java and Algorithm**
 
-- 📫 How to reach me **slloph720@naver.com**
+- 📫 How to reach me **dev_sukyung@naver.com**
 
 
 <!--START_SECTION:waka-->
