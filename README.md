@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SSAFY 5th**
 
-- 🌱 I’m currently learning **Computer Graphics Programming (OpenGL)**
+- 🌱 I’m currently learning **Algorithms**
 
 - 📫 How to reach me **dev_sukyung@naver.com**
 
