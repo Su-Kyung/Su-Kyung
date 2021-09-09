@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Song Sukyung</h1>
 <h3 align="center">A passionate software developer from Korea</h3>
 
-- 🔭 I’m currently working on **Samsung Electronics**
-
 - 🌱 I’m currently learning **Algorithms**
 
 - 📫 How to reach me **dev_sukyung@naver.com**
