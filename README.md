@@ -7,11 +7,11 @@
 
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 663 Contributions in the Year 2021
  > 
-> 📦 1.3 MB Used in Github's Storage 
+> 📦 1.3 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -20,7 +20,7 @@
 > 🔑 10 Private Repositories  
  > 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
 <!--
