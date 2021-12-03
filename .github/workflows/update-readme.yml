@@ -41,3 +41,5 @@ jobs:
           SHOW_PROFILE_VIEWS: false 
           SHOW_LANGUAGE: true 
           SHOW_TIMEZONE: true 
+          SHOW_UPDATED_DATE: true
+          
