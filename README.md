@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 669 Contributions in the Year 2021
+> 🏆 682 Contributions in the Year 2021
  > 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
@@ -19,8 +19,19 @@
  > 
 > 🔑 10 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 30/11/2021
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Java                     22 hrs 39 mins      ████████████████████████░   99.45% 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
+
+```
+
+
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
 
 <!--
