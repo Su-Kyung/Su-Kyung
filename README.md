@@ -25,8 +25,7 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     6 hrs 56 mins       ███████████████████░░░░░░   78.64% 
-Markdown                 1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.36%
+No Activity Tracked This Week
 
 ```
 
