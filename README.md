@@ -7,8 +7,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-824%20hrs%2046%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 11 Contributions in the Year 2022
@@ -27,12 +25,14 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 53 mins       ███████████████████░░░░░░   78.22% 
+Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
+Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.54%
 
 ```
 
 
- Last Updated on 22/03/2022 15:24:56 UTC
+ Last Updated on 26/03/2022 15:21:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
