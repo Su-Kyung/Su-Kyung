@@ -25,12 +25,12 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   2 hrs 9 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 04/04/2022 15:23:13 UTC
+ Last Updated on 09/04/2022 15:22:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
