@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-836%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -32,7 +32,7 @@ Java                     38 mins             ███████████�
 ```
 
 
- Last Updated on 15/05/2022 15:04:02 UTC
+ Last Updated on 15/05/2022 15:05:56 UTC
 <!--END_SECTION:waka-->
 
 <!--
