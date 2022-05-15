@@ -27,12 +27,12 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     38 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 15/05/2022 15:00:50 UTC
+ Last Updated on 15/05/2022 15:02:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
