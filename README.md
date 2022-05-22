@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-836%20hrs%2045%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -27,12 +27,12 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     38 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 22/05/2022 15:23:59 UTC
+ Last Updated on 22/05/2022 15:26:01 UTC
 <!--END_SECTION:waka-->
 
 <!--
