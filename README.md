@@ -11,6 +11,8 @@
 
 **🐱 My GitHub Data** 
 
+> 🏆 12 Contributions in the Year 2022
+ > 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -30,7 +32,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/08/2022 23:48:48 UTC
+ Last Updated on 20/08/2022 23:50:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
