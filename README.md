@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-836%20hrs%2045%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -21,8 +21,18 @@
  > 
 > 🔑 11 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 04/09/2022 15:23:11 UTC
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 04/09/2022 15:25:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
