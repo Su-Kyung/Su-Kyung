@@ -21,18 +21,8 @@
  > 
 > 🔑 11 Private Repositories  
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 14/11/2022 17:15:39 UTC
+ Last Updated on 15/11/2022 15:23:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
