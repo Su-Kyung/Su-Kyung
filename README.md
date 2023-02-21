@@ -11,6 +11,8 @@
 
 **🐱 My GitHub Data** 
 
+> 🏆 0 Contributions in the Year 2023
+ > 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -30,7 +32,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/02/2023 21:20:32 UTC
+ Last Updated on 21/02/2023 21:21:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
